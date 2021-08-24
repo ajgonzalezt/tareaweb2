@@ -1,0 +1,14 @@
+{
+  "name": "EjercicioNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build:table": "node ./createTableProveedores.js",
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
