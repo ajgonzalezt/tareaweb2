@@ -1,4 +1,3 @@
-////import { executeProveedores } from "./createTableProveedores.js";
 
 const fs = require("fs");
 
